@@ -6,7 +6,7 @@ import ContactPage from './src/information/contact';
 import LandingPage from './src/Navigation/HomeNav';
 import MCPage from './src/others/mcPage';
 import Education from './src/Navigation/EduNav';
-import Setting from './src/information/custom';
+import Setting from './src/information/about';
 import TP from './src/education/TP';
 import BGSS from './src/education/BGSS';
 import Job from './src/Navigation/JobNav';

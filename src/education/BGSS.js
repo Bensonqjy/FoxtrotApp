@@ -20,7 +20,7 @@ const BGSS = () => {
     <SafeAreaView style = {styles.wholepg}>
       <View style = {styles.pagecen}> 
 
-      <Text style = {style.header}>
+      <Text style = {styles.header}>
         Institution: Bedok Green Secondary School {"\n"}
         Graduated: Apr 2020 {"\n"}
         Course of Study: N/A 
